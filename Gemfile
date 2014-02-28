@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'sinatra', '~> 1.4.4'
+gem 'SysVIPC', '0.9.10'
+gem 'aws-sdk', '1.33.0'
+gem 'passenger', '4.0.37'
